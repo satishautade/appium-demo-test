@@ -1,0 +1,15 @@
+{
+  "name": "x-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^5.15.1"
+  }
+}
